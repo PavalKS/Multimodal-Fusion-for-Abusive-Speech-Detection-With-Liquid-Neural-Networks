@@ -21,3 +21,6 @@ Late fusion technique is applied to combine the outputs of text and audio models
 Performance:
 
 The ensemble model achieves an accuracy of 77.47% and an AUC of 77.89% on the multilingual test set.
+
+# Dataset:
+https://drive.google.com/drive/folders/1geQ4PlXGsNCvPQDT3tKztvAu817PB5TP
